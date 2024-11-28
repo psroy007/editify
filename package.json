@@ -1,0 +1,16 @@
+{
+  "name": "editify",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Purab Singha Roy",
+  "license": "ISC",
+  "description": "Editify is a sleek and intuitive text editor designed for creators who value simplicity and efficiency. Whether you're drafting notes, coding, or writing your next masterpiece, Editify offers a seamless experience with its clean interface, powerful editing tools, and customizable features. With real-time collaboration, smart syntax highlighting, and a distraction-free mode, Editify helps you focus on what truly matters—your words. Ideal for writers, developers, and anyone who loves the art of text, Editify makes editing effortless and enjoyable.",
+  "devDependencies": {
+    "electron": "^33.2.1"
+  }
+}
