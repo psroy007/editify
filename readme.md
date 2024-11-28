@@ -1,6 +1,6 @@
 ## Editify - A Sleek and Intuitive Text Editor
 
-Editify is a powerful, lightweight, and intuitive text editor designed for writers, developers, and creators. Built using Node.js and Electron, Editify provides a seamless writing experience with support for dark mode, real-time editing, and custom themes.
+Editify is a powerful, lightweight, and intuitive text editor designed for writers, developers, and creators. Built using Node.js and Electron, Editify provides a seamless writing experience.
 
 This project aims to provide a clean and distraction-free writing environment with a modern, responsive interface.
 
@@ -9,10 +9,10 @@ This project aims to provide a clean and distraction-free writing environment wi
 
 - Sleek User Interface: A minimal and dark-themed interface to help you focus on your writing.
 - Full-Screen Editing: Provides a distraction-free, full-screen mode for focused writing.
-- Customizable Styling: Built with CSS and supports dark mode out of the box.
+- Customizable Styling: Built with CSS.
 - Cross-Platform: Thanks to Electron, it works on macOS, Windows, and Linux.
 - Resizable Text Area: Adjust the size of the text area for different writing needs.
-- Smooth Scrollbars: Custom slim scrollbars that match the dark theme.
+- Smooth Scrollbars: Custom slim scrollbar.
 
 
 ## Tech Stack
