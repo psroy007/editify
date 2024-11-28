@@ -37,7 +37,7 @@ Follow these steps to get Editify up and running on your local machine.
 
 #  Clone the repository
 
-git clone https://github.com/your-username/editify.git
+git clone https://github.com/psroy007/editify.git
 cd editify
 
 #  Install dependencies
